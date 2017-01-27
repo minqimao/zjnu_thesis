@@ -4,7 +4,7 @@
 
 # Instructions
 
-This tempate is highly based on UCAS thesis template  
+This tempate is highly based on [UCAS thesis](https://github.com/mohuangrui/ucasthesis) template  
 Keep updating...
 
 # Copyright & problems

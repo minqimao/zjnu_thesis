@@ -1,4 +1,4 @@
-# ZJNU_thesis
+# ZJNU thesis
 * Zhejiang Normal Universtiy Thesis Template  
 * 浙江师范大学毕业论文模板
 

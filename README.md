@@ -1,5 +1,5 @@
 # ZJNU thesis LaTeX template
-* Zhejiang Normal Universtiy Thesis LaTeX Template  
+* Zhejiang Normal Universtiy thesis LaTeX template  
 * 浙江师范大学毕业论文LaTeX模板
 
 # Instructions
